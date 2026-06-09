@@ -1,6 +1,6 @@
 Projeto de portfólio pessoal desenvolvido com **HTML5** e **CSS3**, com o objetivo de apresentar minha trajetória profissional, conhecimentos técnicos e habilidades na área de **Tecnologia da Informação**, infraestrutura de redes e desenvolvimento back-end.
 
-## 📌 Sobre o Projeto
+Sobre o Projeto
 
 Este projeto foi criado para servir como uma apresentação profissional, reunindo informações sobre:
 
