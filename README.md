@@ -9,6 +9,7 @@ Este projeto foi criado para servir como uma apresentação profissional, reunin
 - Conhecimentos técnicos
 - Habilidades e qualificações
 - Histórico de atuação em TI
+- Formação Academica
 
 O site possui uma interface simples, organizada e responsiva, focada em clareza e navegação intuitiva.
 
